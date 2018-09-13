@@ -1,0 +1,2 @@
+webpackJsonp([10],{JJu4:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var c={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  This is stock.\n")])},staticRenderFns:[]};var s=t("VU/8")({name:"Stock"},c,!1,function(e){t("nQfa")},"data-v-6eccb687",null);n.default=s.exports},nQfa:function(e,n){}});
+//# sourceMappingURL=10.e597aff9bfee8dba0a47.js.map
