@@ -1,0 +1,2 @@
+webpackJsonp([14],{"+dpo":function(e,n){},VBaA:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  This is Insights.\n")])},staticRenderFns:[]};var i=t("VU/8")({name:"Insights"},s,!1,function(e){t("+dpo")},"data-v-0d2476c0",null);n.default=i.exports}});
+//# sourceMappingURL=14.14bbe96a14315ff3fd33.js.map
